@@ -23,7 +23,7 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className={clsx("button button--lg", styles.browseButton)}
-            to="/docs/getting-started/what-is-justcollabs"> 
+            to="/getting-started/what-is-justcollabs"> 
             Browse FAQs
           </Link>
         </div>

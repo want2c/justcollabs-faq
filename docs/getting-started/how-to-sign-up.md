@@ -14,4 +14,4 @@ You can sign up with your email address and verify it using a magic link. Once l
 3. Check your email for confirmation
 4. Click the confirmation link to activate your account
 
-*Need help with registration? [Contact our support team](/docs/technical-support/how-to-contact-support).* 
+*Need help with registration? [Contact our support team](/technical-support/how-to-contact-support).* 
