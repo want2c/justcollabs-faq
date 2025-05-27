@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Montserrat:wght@700&display=swap');
+
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+
+/* You can override the default Infima variables here. */
+:root {
+  --ifm-font-family-base: 'Inter', sans-serif;
+  --ifm-font-family-heading: 'Montserrat', sans-serif; /* Assuming Montserrat for headings as in JC_Reference .logo-text */
+  --ifm-color-primary: #B85E93;
+  --ifm-color-primary-dark: #a35382;
+  --ifm-color-primary-darker: #964b77;
+  --ifm-color-primary-darkest: #7c3e62;
+  --ifm-color-primary-light: #c469a4;
+  --ifm-color-primary-lighter: #d074b0;
+  --ifm-color-primary-lightest: #dd8dc8;
+
+  --ifm-color-secondary: #4C2256;
+  --ifm-color-accent: #E783B5;
+  --ifm-text-color: #1A1A1A;
+  --ifm-heading-color: var(--ifm-text-color); /* Ensure headings use the main text color by default */
+  --ifm-background-color: #FFF3F3;
+
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+}
+
+/* Dark theme styles removed as dark mode is disabled */
