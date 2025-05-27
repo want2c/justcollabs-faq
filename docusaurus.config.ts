@@ -9,10 +9,10 @@ const config: Config = {
   tagline: 'Your JustCollabs Questions Answered',
   favicon: 'img/logo.png',
 
-  // Set the production url of your site here
-  url: 'https://want2c.github.io',
-  // Set the /<baseUrl>/ pathname under which your site is served
-  baseUrl: '/justcollabs-faq/',
+  // Set the production url of your site here - CHANGED to your main domain
+  url: 'https://justcollabs.com',
+  // Set the /<baseUrl>/ pathname under which your site is served - CHANGED to /faq/
+  baseUrl: '/faq/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
