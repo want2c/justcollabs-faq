@@ -49,6 +49,10 @@ const config: Config = {
     ],
   ],
 
+  plugins: [
+    './plugins/llms-txt-plugin.js',
+  ],
+
   themes: [
     [
       require.resolve('@easyops-cn/docusaurus-search-local'),
