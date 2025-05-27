@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkjustcollabs_faq=self.webpackChunkjustcollabs_faq||[]).push([[8514],{5582:a=>{a.exports=JSON.parse('{"metadata":{"permalink":"/faq/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
