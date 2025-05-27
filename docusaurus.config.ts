@@ -75,6 +75,7 @@ const config: Config = {
         highlightSearchTermsOnTargetPage: true,
         explicitSearchResultPath: true,
         hashed: true,
+        docsRouteBasePath: '/',
       },
     ],
   ],
