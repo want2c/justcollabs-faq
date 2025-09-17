@@ -38,10 +38,13 @@ Get help with account issues, platform features, troubleshooting, and contacting
 - https://justcollabs.com/faq/getting-started/who-is-justcollabs-for
 - https://justcollabs.com/faq/profiles-discovery/can-i-hide-profile
 - https://justcollabs.com/faq/profiles-discovery/can-i-showcase-nsfw
+- https://justcollabs.com/faq/profiles-discovery/distance-badges-meaning
 - https://justcollabs.com/faq/profiles-discovery/how-collaborations-start
 - https://justcollabs.com/faq/profiles-discovery/how-location-discovery-works
 - https://justcollabs.com/faq/profiles-discovery/how-to-make-profile-stand-out
 - https://justcollabs.com/faq/profiles-discovery/how-travel-plans-work
+- https://justcollabs.com/faq/profiles-discovery/nearby-creators-discovery
+- https://justcollabs.com/faq/profiles-discovery/profile-status-badges
 - https://justcollabs.com/faq/profiles-discovery/public-vs-private-profile
 - https://justcollabs.com/faq/profiles-discovery/what-links-can-i-include
 - https://justcollabs.com/faq/safety-privacy/block-report-users
@@ -54,11 +57,13 @@ Get help with account issues, platform features, troubleshooting, and contacting
 - https://justcollabs.com/faq/safety-privacy/use-stage-name
 - https://justcollabs.com/faq/safety-privacy/who-can-see-profile
 - https://justcollabs.com/faq/technical-support/change-email
+- https://justcollabs.com/faq/technical-support/collaboration-not-visible
 - https://justcollabs.com/faq/technical-support/confirmation-link
 - https://justcollabs.com/faq/technical-support/how-to-contact-support
 - https://justcollabs.com/faq/technical-support/inappropriate-content
 - https://justcollabs.com/faq/technical-support/mobile-access
 - https://justcollabs.com/faq/technical-support/platform-rules
+- https://justcollabs.com/faq/technical-support/report-fake-collaborations
 - https://justcollabs.com/faq/technical-support/request-features
 - https://justcollabs.com/faq/technical-support/reset-password
 - https://justcollabs.com/faq/technical-support/update-travel-plans
@@ -69,5 +74,5 @@ For additional questions not covered in this FAQ, contact our support team at ad
 
 ---
 
-Last updated: 2025-08-24
+Last updated: 2025-09-17
 Generated automatically from our FAQ documentation.
