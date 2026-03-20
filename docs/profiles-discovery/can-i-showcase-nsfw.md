@@ -1,11 +1,14 @@
 ---
 sidebar_label: "Can I showcase NSFW"
 title: "Can I showcase NSFW"
-description: "Learn about the platform's policies regarding NSFW content and how to showcase your work appropriately."
+description: "Learn about the platform's policies regarding NSFW content and how to showcase your work."
 ---
 
 # Can I showcase NSFW content?
 
-Your profile image and cover must be SFW, but you can link to NSFW content or embed previews from platforms like Bluesky. We aim to balance freedom of expression with platform safety.
+We prefer profile pictures to be **SFW** (safe for work). For NSFW content, you have two options:
 
-If you want to show NSFW please connect your Bluesky account and it will be displayed in your profile page. 
+- **Bluesky gallery** — Link your Bluesky account and any NSFW images you post there will automatically appear as a [photo gallery](/profiles-discovery/bluesky-gallery) on your profile.
+- **External links** — Add links to your content platforms (OnlyFans, Fansly, etc.) in your profile so visitors can find your work.
+
+We do not host adult media directly on JustCollabs.

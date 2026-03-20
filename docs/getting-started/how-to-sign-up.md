@@ -6,12 +6,12 @@ description: "Learn how to create your JustCollabs account and get started."
 
 # How do I sign up?
 
-You can sign up with your email address and verify it using a magic link. Once logged in, you'll be able to set up your profile, add links, and start exploring other creators.
+1. Go to [app.justcollabs.com/signup](https://app.justcollabs.com/signup)
+2. Enter your email address and create a password
+3. Complete the CAPTCHA verification
+4. Check your email for a confirmation link
+5. Click the link to activate your account and begin onboarding
 
-## Quick Steps:
-1. Go to the registration page
-2. Fill in your details
-3. Check your email for confirmation
-4. Click the confirmation link to activate your account
+Once you're in, the [onboarding flow](/getting-started/how-onboarding-works) will walk you through setting up your profile step by step.
 
-*Need help with registration? [Contact our support team](/technical-support/how-to-contact-support).* 
+*Need help with registration? [Contact our support team](/technical-support/how-to-contact-support).*

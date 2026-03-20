@@ -6,4 +6,4 @@ description: "Learn how to reset your JustCollabs password."
 
 # How do I reset my password?
 
-Please select "Forgot my password" on the login page, a new link will be sent to your email and it will allow you to change the password. 
+Go to [justcollabs.com/forgot-password](https://justcollabs.com/forgot-password) and enter your email. A reset link will be sent to your email that allows you to set a new password.

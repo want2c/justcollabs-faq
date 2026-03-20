@@ -23,13 +23,14 @@ const sidebars: SidebarsConfig = {
         'getting-started/who-is-justcollabs-for',
         'getting-started/is-justcollabs-only-for-creators',
         'getting-started/how-to-sign-up',
+        'getting-started/how-onboarding-works',
         'getting-started/is-it-free',
-        'getting-started/what-is-ambassador-program',
         'getting-started/how-to-setup-profile',
         'getting-started/can-new-creators-join',
         'getting-started/how-verification-works',
         'getting-started/what-content-can-i-upload',
-        'getting-started/do-i-need-professional-camera',
+        'getting-started/what-can-i-do-before-verification',
+        'getting-started/how-dm-requests-work',
       ],
     },
     {
@@ -38,26 +39,27 @@ const sidebars: SidebarsConfig = {
       items: [
         'profiles-discovery/how-to-make-profile-stand-out',
         'profiles-discovery/what-links-can-i-include',
+        'profiles-discovery/bluesky-gallery',
         'profiles-discovery/can-i-showcase-nsfw',
         'profiles-discovery/how-location-discovery-works',
         'profiles-discovery/nearby-creators-discovery',
         'profiles-discovery/distance-badges-meaning',
         'profiles-discovery/profile-status-badges',
-        'profiles-discovery/public-vs-private-profile',
+        'profiles-discovery/what-is-roles-page',
         'profiles-discovery/how-travel-plans-work',
         'profiles-discovery/can-i-hide-profile',
         'profiles-discovery/search-creators-niche',
         'profiles-discovery/how-collaborations-start',
+        'profiles-discovery/how-connections-work',
+        'profiles-discovery/how-to-start-chatting',
       ],
     },
     {
       type: 'category',
-      label: 'Collaboration & Connections',
+      label: 'DM Requests & Messaging',
       items: [
-        'collaboration-connections/why-connections-matter',
-        'collaboration-connections/how-to-showcase-collaborations',
-        'collaboration-connections/collaboration-confirmation-process',
-        'collaboration-connections/inviting-non-platform-users',
+        'dm-requests/what-are-dm-requests',
+        'dm-requests/sharing-dm-request-link',
       ],
     },
     {
@@ -83,29 +85,16 @@ const sidebars: SidebarsConfig = {
         'technical-support/change-email',
         'technical-support/reset-password',
         'technical-support/mobile-access',
-        'technical-support/collaboration-not-visible',
-        'technical-support/report-fake-collaborations',
+        'technical-support/install-as-app',
         'technical-support/how-to-contact-support',
         'technical-support/request-features',
         'technical-support/platform-rules',
         'technical-support/inappropriate-content',
-        'technical-support/update-travel-plans',
+        'technical-support/preferences-settings',
+        'technical-support/notification-settings',
       ],
     },
   ],
-
-  // But you can create a sidebar manually
-  /*
-  tutorialSidebar: [
-    'intro',
-    'hello',
-    {
-      type: 'category',
-      label: 'Tutorial',
-      items: ['tutorial-basics/create-a-document'],
-    },
-  ],
-   */
 };
 
 export default sidebars;

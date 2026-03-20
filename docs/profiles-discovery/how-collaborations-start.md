@@ -1,29 +1,30 @@
 ---
 sidebar_label: "How do collaborations get started on the platform"
 title: "How do collaborations get started on the platform"
-description: "Learn the step-by-step process of initiating and managing collaborations on JustCollabs."
+description: "Learn the step-by-step process of initiating collaborations on JustCollabs."
 ---
 
 # How do collaborations get started on the platform?
 
-Starting a collaboration on JustCollabs is very easy:
+Starting a collaboration on JustCollabs is straightforward:
 
-1. **Search:** Use the "Find Collabs" search page to find creators who match your interests. You can filter by location (their home city or where they are traveling), their roles (e.g., performer, photographer), specific attributes if they're a performer, and more.
+1. **Browse & Discover (Verified Users):** If you're verified, use the **Performers** page or **Roles** page (both accessible from the bottom navigation bar) to find creators who match your interests. You can filter by location, specific attributes, and more.
 
-2. **Review Profiles:** Check out the profiles of creators who seem like a good match to learn more about them, their work (via linked platforms), and their collaboration preferences.
+2. **Review Profiles:** Tap on a creator's card to view their full profile. Check out their bio, linked platforms, Bluesky gallery, travel plans, and collaboration preferences.
 
-3. **Chat:** Once you find someone you'd like to collaborate with, the primary way to get in touch is by sending them a direct message through our built-in chat system. You can introduce yourself, express your interest in collaborating, and discuss potential ideas. Use the chat to discuss the specifics of your proposed collaboration, such as concepts, dates, locations, compensation (if applicable), and any other important details.
+3. **Initiate Contact:**
 
-4. **Project Planning:**
-   - Once you've found a potential collaborator, you can use the platform to plan your project.
-   - This includes discussing roles, expectations, and any specific requirements.
+   **If you're both verified:** You can directly send them a chat message to start a conversation.
 
-5. **Collaboration Management:**
-   - The platform provides tools to manage your collaboration, including scheduling and communication features.
-   - You can track the progress of your collaboration and make adjustments as needed.
+   **If either of you isn't verified yet:** You'll need to send a DM request first. This involves:
+   - Writing a message introducing yourself (up to 1000 characters)
+   - Verifying your identity by connecting your Twitter (X) or Bluesky account
+   - Optionally sharing your location
 
-6. **Post-Collaboration:**
-   - After the collaboration, you can provide feedback and maintain connections for future projects.
-   - The platform encourages ongoing relationships between creators.
+   The other person will receive your request in their **Requests** tab and can choose to accept or decline it. If they accept, you'll both be able to view each other's full profiles and chat freely.
 
-This structured approach helps ensure that collaborations are well-organized and successful. 
+4. **Chat & Plan:** Once you have chat access (via the **Messages** tab in the bottom navigation), you can discuss collaboration details — concepts, dates, locations, compensation (if applicable), and any other important specifics.
+
+5. **Connect:** You can also send a connection request to build your professional network on the platform. Manage your connections in **Settings > Connections**.
+
+This approach keeps things simple while ensuring that all interactions are consensual and professional.

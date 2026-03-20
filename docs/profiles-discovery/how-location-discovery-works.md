@@ -6,14 +6,18 @@ description: "Learn how to use location-based features to find collaborators in 
 
 # How does the location-based discovery work?
 
-It's simple!
+JustCollabs uses location to help you find creators near you or in places you plan to visit. Here's how it works:
 
-1. **Set Your Home City:** In your profile, you set your main "home base" city. Profiles are displayed according to the city you set. Your GPS location is not shared with us at any moment, we value your privacy and safety.
+1. **Set Your Home Base:** In **Settings > Profile**, you set your main home base city. This is your default location for discovery. Your GPS location is never shared — we value your privacy and safety.
 
-2. **Add Travel Plans (Optional):** If you're traveling, you can add specific cities and dates to your "Travel Plans."
+2. **Add Travel Plans (Optional):** In **Settings > Trips**, you can add specific cities and dates for upcoming trips.
 
-3. **Discover Creators:**
-   - You can then search for creators who are based in your home city.
-   - You can also search for creators in cities you plan to visit, or see who else will be traveling there at the same time as you.
+3. **Discover Creators:** On the **Performers** page (accessible from the bottom navigation bar), you can:
+   - Browse creators who are based in your home city
+   - Search for creators in any city using the location picker
+   - See who else will be traveling to the same city at the same time as you
+   - Use the location picker to search for a custom city
 
-This helps you find potential collaborators nearby or in places you'll be visiting. 
+4. **Auto-Location:** The Performers page can automatically show creators in your current area based on your home base and active trips.
+
+This helps you find potential collaborators nearby or in places you'll be visiting.

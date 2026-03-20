@@ -6,6 +6,9 @@ description: "Learn about content upload and linking policies on JustCollabs."
 
 # What kind of content can I upload or link to?
 
-You can showcase SFW profile photos and link out to your NSFW content through the links in your profile. We do not host adult media directly, but we support embedded previews from platforms like Bluesky who do support them.
+We prefer profile pictures to be **SFW** (safe for work). For NSFW content, you have two options:
 
-If you want to show NSFW please connect your Bluesky account and it will be displayed in your profile page. 
+- **Bluesky gallery** — Link your Bluesky account and any NSFW images you post there will automatically appear as a [photo gallery](/profiles-discovery/bluesky-gallery) on your profile.
+- **External links** — Add links to your content platforms (OnlyFans, Fansly, etc.) in your profile so visitors can find your work.
+
+We do not host adult media directly on JustCollabs.
