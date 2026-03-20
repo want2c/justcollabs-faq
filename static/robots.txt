@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /faq/
+
+Sitemap: https://justcollabs.com/faq/sitemap.xml
