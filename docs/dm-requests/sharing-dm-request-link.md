@@ -1,11 +1,19 @@
 ---
-sidebar_label: "How do I share my DM request link?"
-title: "How do I share my DM request link?"
-description: "Learn how to share your personal DM request link on social media."
+sidebar_label: "How do I share my profile link?"
+title: "How do I share my profile link?"
+description: "Learn how to share your public JustCollabs profile link on social media."
 ---
 
-# How do I share my DM request link?
+# How do I share my profile link?
 
-From the **Requests** page, you can access your sharing card and personal DM request link. Tap the **Share** button to share it directly to X (Twitter), Bluesky, WhatsApp, Telegram, or SMS.
+Every creator has a public profile at `justcollabs.com/{nickname}`. You can share this link anywhere — social media, bio links, or direct messages — so people can find and connect with you on JustCollabs.
 
-Anyone who visits your link can send you a DM request — even without a JustCollabs account. Your public profile is also available at `justcollabs.com/{nickname}`.
+## Finding your link
+
+Go to **Settings → Privacy**. At the bottom of the page you'll find your **Profile Link** section, which shows your personal URL and a **Share** button.
+
+Tap **Share** to post directly to X (Twitter), Bluesky, WhatsApp, Telegram, or SMS, or copy the link to use anywhere else.
+
+## What visitors see
+
+What your profile shows to visitors depends on your privacy settings. You can control which fields are visible to the general public versus verified creators only. See [How do privacy settings work?](/safety-privacy/privacy-settings) for details.

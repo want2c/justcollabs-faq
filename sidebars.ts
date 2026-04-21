@@ -31,6 +31,7 @@ const sidebars: SidebarsConfig = {
         'getting-started/what-content-can-i-upload',
         'getting-started/what-can-i-do-before-verification',
         'getting-started/how-dm-requests-work',
+        'getting-started/invites-rewards',
       ],
     },
     {
@@ -66,6 +67,7 @@ const sidebars: SidebarsConfig = {
       type: 'category',
       label: 'Safety & Privacy',
       items: [
+        'safety-privacy/privacy-settings',
         'safety-privacy/is-justcollabs-safe',
         'safety-privacy/how-data-protected',
         'safety-privacy/block-report-users',

@@ -10,13 +10,11 @@ DM requests are how creators connect on JustCollabs. Instead of open messaging, 
 
 ## Sending a DM Request
 
-To send a request, visit a creator's profile and tap **Send DM Request**. You'll need to:
+To send a request you need a JustCollabs account. Visit a creator's profile and tap **Send DM Request**. You'll need to:
 
 - **Verify your identity** with Twitter (X) or Bluesky
 - **Write a message** introducing yourself (up to 1,000 characters)
 - **Share your location** (country and city)
-
-You don't need a JustCollabs account to send a DM request — you can send one as a guest from any creator's public profile at `justcollabs.com/{nickname}`.
 
 ## Receiving DM Requests
 
