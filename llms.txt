@@ -30,6 +30,7 @@ Get help with account issues, platform features, troubleshooting, and contacting
 - https://justcollabs.com/faq/getting-started/how-to-setup-profile
 - https://justcollabs.com/faq/getting-started/how-to-sign-up
 - https://justcollabs.com/faq/getting-started/how-verification-works
+- https://justcollabs.com/faq/getting-started/invites-rewards
 - https://justcollabs.com/faq/getting-started/is-it-free
 - https://justcollabs.com/faq/getting-started/is-justcollabs-only-for-creators
 - https://justcollabs.com/faq/getting-started/what-can-i-do-before-verification
@@ -55,6 +56,7 @@ Get help with account issues, platform features, troubleshooting, and contacting
 - https://justcollabs.com/faq/safety-privacy/encounter-harassment
 - https://justcollabs.com/faq/safety-privacy/how-data-protected
 - https://justcollabs.com/faq/safety-privacy/is-justcollabs-safe
+- https://justcollabs.com/faq/safety-privacy/privacy-settings
 - https://justcollabs.com/faq/safety-privacy/safety-tips-collaborators
 - https://justcollabs.com/faq/safety-privacy/share-information-platforms
 - https://justcollabs.com/faq/safety-privacy/use-stage-name
@@ -77,5 +79,5 @@ For additional questions not covered in this FAQ, contact our support team at ad
 
 ---
 
-Last updated: 2026-03-20
+Last updated: 2026-04-21
 Generated automatically from our FAQ documentation.
